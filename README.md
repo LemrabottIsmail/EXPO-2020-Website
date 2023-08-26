@@ -1,10 +1,12 @@
-![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/8db85d8e-722a-4d89-81d6-97943cb71f07)# EXPO-2020-Website
+# EXPO-2020-Website
 
 The website was designed using simple HTML, CSS and JavaScript as the final project for Web Design course.
 
 Home Page
 ![home1](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/b346309a-767b-4b90-8bda-191f895a8c02)
 ![home2](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/099c1f30-637a-44b7-98c8-c033937efe58)
+![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/52e2edd1-e921-4358-8217-0c29f67bc8d7)
+
 
 Discovering Districts Page
 ![discovering1](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/aba27de4-ec17-43cb-8024-550750dcd6c4)
