@@ -1,0 +1,108 @@
+body {
+background-color:#FDEBD0;
+}
+
+.Picture1 {
+  width: 300px;
+  height: 150px;
+  float: left;
+  margin-right: 10px;
+}
+
+a:hover{
+  background-color: grey;
+}
+
+a.nodec{
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 250%;
+  text-align: center;
+  font-family: sans-serif, serif, "Times New Roman";
+  letter-spacing: 2.0pt;
+
+  }
+
+
+
+.socialmedia {
+              width: 40pt;
+              height: 40pt;
+            }
+
+.nav {
+              background-color: #333;
+              overflow: hidden;
+            }
+
+.nav a {
+              float: left;
+              color: #f2f2f2;
+              text-align: center;
+              padding: 20px;
+              text-decoration: none;
+              font-size: 20px;
+              word-spacing:2.0pt;
+            }
+
+.about{
+  width:85%;
+  height:250px;
+  border: 10px groove #6C6258;
+  border-radius: 40px;
+  padding: 4px;
+  }
+
+figcaption {
+  font-size:20px;
+  font-family: sans-serif, "Times New Roman", serif;
+  color:black;
+  border-style: ridge;
+  border-color: #6C6258;
+  background-color: #F5F5F5;
+  text-align: justify;
+  padding: 9px;
+  border-width: 7px;
+  border-radius: 50px;
+  text-indent: 5%;
+  line-height:30px;
+  width:85%;
+}
+
+.h2a {
+  font-size: 35px;
+  font-family:serif,"Times New Roman", sans-serif;
+  border-radius: 2px;
+  border-style: double;
+  border-width: 15px;
+  border-color: #6C6258;
+  background-color: #F5F5F5;
+}
+
+.h2b{
+  width:80%;
+  height: 250px;
+  border: 10px groove #6C6258;
+  border-radius: 40px;
+  padding: 4px;
+}
+
+.hea{
+  font-size: 250%;
+  text-align: center;
+  font-family: sans-serif, serif, "Times New Roman";
+  letter-spacing: 2.0pt;
+  border-style: groove;
+  border-radius: 2px;
+  border-width: 15px;
+  border-color: #6C6258;
+  background-color: #F5F5F5;
+}
+.clbutton{
+  padding:10px;
+  background-color:orange;
+  width:25%;
+  font-size:25px;
+}

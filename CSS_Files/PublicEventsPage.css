@@ -1,0 +1,122 @@
+body {
+background-color:#FDEBD0;
+}
+
+.Picture1 {
+  width: 300px;
+  height: 150px;
+  float: left;
+  margin-right: 10px;
+}
+.Names {
+  text-transform: uppercase;
+  font-size: 30px;
+}
+.Events {
+  margin-top: 30px;
+  margin-left: 110px;
+  color: purple;
+  background-color:orange;
+  border-style: ridge;
+  border-color: lightgrey;
+  font-size: 20px;
+  background-color: white;
+  text-align: center;
+  width: 80%;
+  padding: 20px;
+  border-width: 10px;
+  border-radius: 20px;
+  text-indent: 5%;
+  line-height:40px;
+}
+.Picture2 {
+  width: 1095px;
+  height: 270px;
+  float: left;
+  margin-left: 55px;
+  border-style: solid;
+}
+.restaurant1 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  text-decoration: none;
+  border-width: 10px;
+  border-radius: 60px;
+}
+a:hover{
+  background-color: grey;
+}
+
+h2 {
+  text-align: center;
+  font-style: oblique;
+}
+.he {
+border-style:groove;
+border-width: 10px;
+border-color:#6C6258;
+}
+.paragraphs {
+  border-style: ridge;
+  border-color: lightgrey;
+  font-size: 20px;
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  border-width: 10px;
+  border-radius: 60px;
+  text-indent: 5%;
+  line-height:40px;
+}
+h1 {
+  font-size: 250%;
+  text-align: center;
+  font-family: sans-serif, serif, "Times New Roman";
+  letter-spacing: 2.0pt;
+
+  }
+  .events {
+    font-style: normal;
+    text-align: left;
+    margin-left: 60px;
+  }
+.Display{
+  width: 600px;
+  height: 50px;
+  border-color: lightgrey;
+  border-radius: 6px;
+}
+  .box {
+    border-color: lightgrey;
+    border-radius: 6px;
+  }
+  .button{
+    background-color:orange;
+    font-size:20px;
+    font-weight: bold;
+    color:white;
+  }
+.box1{
+  width: 600px;
+  height: 50px;
+  border-color: lightgrey;
+  border-radius: 6px;
+}
+.socialmedia {
+              width: 40pt;
+              height: 40pt;
+            }
+
+.nav {
+              background-color: #333;
+              overflow: hidden;
+            }
+.nav a {
+              float: left;
+              color: #f2f2f2;
+              text-align: center;
+              padding: 20px;
+              text-decoration: none;
+              font-size: 20px;
+              word-spacing:2.0pt;
+            }

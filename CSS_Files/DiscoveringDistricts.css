@@ -1,0 +1,116 @@
+body {
+background-color:#FDEBD0;
+}
+
+.Picture1 {
+  width: 300px;
+  height: 150px;
+  float: left;
+  margin-right: 10px;
+}
+
+a:hover{
+  background-color: grey;
+}
+
+a.nodec{
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 250%;
+  text-align: center;
+  font-family: sans-serif, serif, "Times New Roman";
+  letter-spacing: 2.0pt;
+
+  }
+
+
+
+.socialmedia {
+              width: 40pt;
+              height: 40pt;
+            }
+
+.nav {
+              background-color: #333;
+              overflow: hidden;
+            }
+
+.nav a {
+              float: left;
+              color: #f2f2f2;
+              text-align: center;
+              padding: 20px;
+              text-decoration: none;
+              font-size: 20px;
+              word-spacing:2.0pt;
+            }
+.pic {
+  border: 20px groove #6C6258;
+  border-radius: 40px;
+  padding: 4px;
+  width:500px;
+}
+p {
+  color:black;
+  border-style: ridge;
+  border-color: #6C6258;
+  font-size: 18px;
+  background-color: #F5F5F5;
+  text-align: justify;
+  padding: 10px;
+  border-width: 7px;
+  border-radius: 50px;
+  text-indent: 5%;
+  line-height:40px;
+}
+
+h2 {
+  color:white;
+  text-align: left;
+  border-style:dotted;
+  border-color:#6C6258;
+  background-color:#333;
+  text-indent: 10px;
+}
+
+ul {
+  border-style: ridge;
+  border-radius: 20px;
+  border-color:#6C6258;
+  border-width: 10px;
+  background-color: #F5F5F5;
+
+
+}
+
+ol {
+  border-style: ridge;
+  border-radius: 20px;
+  border-color:#6C6258;
+  border-width: 10px;
+  background-color: #F5F5F5;
+
+
+}
+.hrd {
+    border:2px;
+    border-style: groove;
+    border-color: black;>
+}
+.formd{
+  color:black;
+  text-align: center;
+  border-style:dotted;
+  border-color:orange;
+  text-indent: 10px;
+  background-color: lightgrey;
+  font-size:30px;
+}
+.button {
+  padding:10px 135px;
+  background-color:orange;
+
+
+}
