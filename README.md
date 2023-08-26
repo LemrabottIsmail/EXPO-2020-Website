@@ -7,8 +7,6 @@ The website was designed using simple HTML, CSS and JavaScript as the final proj
 ![home2](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/099c1f30-637a-44b7-98c8-c033937efe58)
 ![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/52e2edd1-e921-4358-8217-0c29f67bc8d7)
 
----
-
 # Discovering Districts Page
 ![discovering1](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/aba27de4-ec17-43cb-8024-550750dcd6c4)
 
