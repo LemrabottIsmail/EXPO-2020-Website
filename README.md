@@ -17,7 +17,7 @@ The website was designed using simple HTML, CSS and JavaScript as the final proj
 
 # Dining at EXPO 2020 page
 ![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/ab4c31b1-0f7a-48a2-b2f3-0ac69098e57e)
-![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/fa2d56e7-abf5-4dd9-bd7d-cd825d4450de)
+![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/e727c247-1a60-4534-87c7-1aa13f6f827d)
 
 # Public Events Page
 ![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/6661f601-0d24-4b22-b7a5-735eaa6fe0cb)
