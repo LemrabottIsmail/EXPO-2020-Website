@@ -9,10 +9,11 @@ The website was designed using simple HTML, CSS and JavaScript as the final proj
 
 # Discovering Districts Page
 ![discovering1](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/aba27de4-ec17-43cb-8024-550750dcd6c4)
-
+![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/42ce6b7e-14d1-4f2f-9019-c7d96a681cba)
 
 # Exploring Pavilions Page
 ![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/63f93073-1556-44d7-9b06-6f29f93f921a)
+![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/a03baa6c-d67b-4ce6-a856-f726ba5f55a9)
 
 # Dining at EXPO 2020 page
 ![image](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/b324c6a7-b525-4e54-bbf5-88e409389c9c)
