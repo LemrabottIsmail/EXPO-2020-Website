@@ -1,7 +1,7 @@
 # EXPO-2020-Website
 
 The website was designed using simple HTML, CSS and JavaScript as the final project for Web Design course.
-
+Link: https://lemrabottismail.github.io/EXPO-2020-Website/
 # Home Page
 ![home1](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/b346309a-767b-4b90-8bda-191f895a8c02)
 ![home2](https://github.com/LemrabottIsmail/EXPO-2020-Website/assets/118296287/099c1f30-637a-44b7-98c8-c033937efe58)
